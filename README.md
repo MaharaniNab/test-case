@@ -17,7 +17,7 @@ This app allows users to explore, search, and save their favorite games.
 - [Vite](https://vitejs.dev/) – fast build tool  
 - [Tailwind CSS](https://tailwindcss.com/) – styling & responsive design  
 - [Vue Router](https://router.vuejs.org/) – routing between pages  
-- [Pinia](https://pinia.vuejs.org/) / Vuex – state management  
+- [Pinia](https://pinia.vuejs.org/) – state management  
 - [RAWG API](https://rawg.io/apidocs) – video games data  
 
 ## ⚙️ Project Setup
